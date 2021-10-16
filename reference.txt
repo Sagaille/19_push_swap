@@ -1,0 +1,25 @@
+ ./checker 1 2 3 4 5 7 10 6
+
+rrr
+pb
+rrr
+rrr
+pa
+rr
+rr
+rr
+
+ = OK
+
+https://www.geeksforgeeks.org/heap-sort/
+https://www.youtube.com/watch?v=7KW59UO55TQ&ab_channel=ManvendraMaan
+https://en.wikipedia.org/wiki/Quicksort
+https://stackabuse.com/sorting-algorithms-in-java/
+
+
+
+ruby -e "puts (0..99).to_a.shuffle.join(' ')"
+
+
+another method
+https://medium.com/@jamierobertdawson/push-swap-the-least-amount-of-moves-with-two-stacks-d1e76a71789a
